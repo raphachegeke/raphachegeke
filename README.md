@@ -7,7 +7,7 @@ Web Developer and Multi-Disciplinary Designer
 I'm a Web Developer and Multidisciplinary Designer who loves creating websites and apps that look great and work smoothly. I specialize in HTML, CSS, JavaScript, React, and Firebase, combining coding and design to build user-friendly digital experiences. Whether it’s designing interfaces, improving user experience, or solving technical challenges, I enjoy making technology simple and accessible. I'm always learning new things and looking for creative ways to bring ideas to life.
 
 * 🌍  I'm based in Nairobi Kenya
-* 🖥️  See my portfolio at [MyPortfolio](http://https://my-portfolio-delta-self-31.vercel.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://my-portfolio-delta-self-31.vercel.app/)
 * ✉️  You can contact me at [raphachegekamunu@gmail.com](mailto:raphachegekamunu@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
