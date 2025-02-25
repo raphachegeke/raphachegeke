@@ -24,7 +24,8 @@ I love solving technical challenges, optimizing user experiences, and learning n
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats  ![Profile Views](https://komarev.com/ghpvc/?username=raphachegeke&label=Profile%20Views&color=6366f1&style=flat&hide_border=true)  
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raphachegeke&bg_color=1c1917&color=ffffff&line=6366f1&point=14b8a6&area_color=6366f1&title_color=6366f1&area=true&hide_border=true)  
 
@@ -65,8 +66,6 @@ I love solving technical challenges, optimizing user experiences, and learning n
 ## 🔥 Fun Section  
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)  
-
-![Profile Views](https://komarev.com/ghpvc/?username=raphachegeke&label=Profile%20Views&color=6366f1&style=flat&hide_border=true)  
 
 ---
 
