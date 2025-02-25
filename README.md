@@ -16,7 +16,8 @@ I'm a Web Developer and Multidisciplinary Designer who loves creating websites a
 <a href="https://www.github.com/raphachegeke" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/raphachegeke?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a><a href="https://www.x.com/kamunu9288" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/kamunu9288?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=1c1917"
-/></a>
+/>![Profile Views](https://komarev.com/ghpvc/?username=raphachegeke&label=Profile%20Views&color=blue&style=flat)</a>
+
 
 ### Skills
 
