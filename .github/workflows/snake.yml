@@ -1,28 +1,47 @@
 name: Generate Snake Game
 
 on:
-  schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: raphachegeke
-          svg_out_path: dist/github-contribution-grid-snake.svg
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: actions/upload-artifact@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          name: snake-game
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt || echo "No dependencies"
+
+      - name: Fix permissions for dist folder
+        run: |
+          sudo chmod -R 777 dist || echo "No dist folder found"
+
+      - name: Remove old dist folder
+        run: rm -rf dist || echo "No dist folder to remove"
+
+      - name: Generate Snake Game SVG
+        run: |
+          mkdir -p dist
+          curl -o dist/github-contribution-grid-snake.svg https://github.com/Platane/snk/raw/main/github-contribution-grid-snake.svg
+          
+      - name: Upload SVG as Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: snake-game-svg
           path: dist/github-contribution-grid-snake.svg
 
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
-      - uses: JamesIves/github-pages-deploy-action@4.1.1
-        with:
-          branch: output
-          folder: dist
+      - name: Commit and push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update snake game SVG" || echo "No changes to commit"
+          git push || echo "No changes to push"
