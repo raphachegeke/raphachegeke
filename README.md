@@ -71,4 +71,5 @@ I love solving technical challenges, optimizing user experiences, and learning n
 ---
 
 ### 🐍 Watch My Contributions Come to Life  
-![Snake Game](https://github.com/raphachegeke/raphachegeke/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub Snake](https://raw.githubusercontent.com/raphachegeke/raphachegeke/main/dist/github-contribution-grid-snake.svg)
