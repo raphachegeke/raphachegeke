@@ -20,7 +20,7 @@ I love solving technical challenges, optimizing user experiences, and learning n
 - ✉️ **Contact Me**: [raphachegekamunu@gmail.com](mailto:raphachegekamunu@gmail.com)  
 - 📖 **Currently Learning**: React.js  
 - 🤝 **Looking for Collaborations**: Open to exciting projects  
-- ♟️ **Chess Master... or am I?** 🤪 [![Play Chess](https://img.shields.io/badge/Play-Chess-green?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/play/computer)  
+- ♟️ **Chess Master... Am I?** 🤪 [![Play Chess](https://img.shields.io/badge/Play-Chess-green?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/play/computer)  
 
 ---
 
