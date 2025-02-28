@@ -72,3 +72,8 @@ I love solving technical challenges, optimizing user experiences, and learning n
 ### 🐍 Watch My Contributions Come to Life  
 
 ![GitHub Snake](https://raw.githubusercontent.com/raphachegeke/raphachegeke/main/dist/github-contribution-grid-snake.svg)
+
+---
+<a href="https://buymeacoffee.com/raphachegeke">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
+</a>
