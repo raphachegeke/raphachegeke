@@ -42,7 +42,7 @@ I love solving technical challenges, optimizing user experiences, and learning n
 
 ![Raph's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphachegeke&show_icons=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true)  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=raphachegeke&background=1c1917&border=000000&stroke=6366f1&ring=6366f1&fire=14b8a6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6366f1&sideLabels=14b8a6&dates=ffffff&hide_border=true)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=raphachegeke&theme=solarized-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphachegeke&layout=compact&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true)  
 
@@ -77,12 +77,6 @@ I love solving technical challenges, optimizing user experiences, and learning n
 ## 🔥 Fun Section  
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)  
-
----
-
-### 🐍 Watch My Contributions Come to Life  
-
-![GitHub Snake](https://raw.githubusercontent.com/raphachegeke/raphachegeke/main/dist/github-contribution-grid-snake.svg)
 
 ---
 <a href="https://buymeacoffee.com/raphachegeke">
