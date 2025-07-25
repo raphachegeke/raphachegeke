@@ -7,7 +7,7 @@ I'm a **Web Developer** and **Multidisciplinary Designer** passionate about crea
 
 🔹 **Frontend**: HTML, CSS, JavaScript, React  
 🔹 **Backend**: Firebase, Node.js  
-🔹 **UI/UX Design**: Adobe Suite, Figma  
+🔹 **UI/UX Design**: Adobe Suite  
 
 I love solving technical challenges, optimizing user experiences, and learning new technologies to bring ideas to life.  
 
@@ -18,7 +18,7 @@ I love solving technical challenges, optimizing user experiences, and learning n
 - 🏠 **Based in**: Nairobi, Kenya  
 - 🖥️ **Portfolio**: [My Portfolio](https://raphachegekamunu.vercel.app/)  
 - ✉️ **Contact Me**: [raphachegekamunu@gmail.com](mailto:raphachegekamunu@gmail.com)  
-- 📖 **Currently Learning**: React.js  
+- 📖 **Currently Learning**: Software Engineering 
 - 🤝 **Looking for Collaborations**: Open to exciting projects  
 - ♟️ **Chess Master... Am I?** 🤪 [![Play Chess](https://img.shields.io/badge/Play-Chess-green?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/play/computer)  
 
@@ -29,7 +29,7 @@ I love solving technical challenges, optimizing user experiences, and learning n
 | Project Name            | Description                                      | Live Demo | Repo |
 |-------------------------|--------------------------------------------------|-----------|------|
 | **My Portfolio**        | Personal portfolio website showcasing my work.  | [Live](https://raphachegekamunu.vercel.app/) | [GitHub](https://github.com/raphachegeke) |
-| **Iriaini Tea Factory** | Website for Iriaini Tea Factory.                 | [Live](https://iriaini.vercel.app/) | [GitHub](https://mraphachegekamunu.vercel.app) |
+| **Iriaini Tea Factory** | Website for Iriaini Tea Factory.                 | [Live](https://iriaini.vercel.app/) | [GitHub](https://raphachegekamunu.vercel.app) |
 | **To-Do List**         | A simple to-do list app.                         | [Live](https://to-do-list-eight-dusky.vercel.app/) | [GitHub](https://github.com/raphachegeke/to-do-list) |
 | **Huddle Landing Page** | A responsive landing page with alternating feature blocks. | [Live](https://huddle-landing-page-2yge.vercel.app/) | [GitHub](https://github.com/raphachegeke/huddle-landing-page) |
 
