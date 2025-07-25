@@ -28,8 +28,8 @@ I love solving technical challenges, optimizing user experiences, and learning n
 
 | Project Name            | Description                                      | Live Demo | Repo |
 |-------------------------|--------------------------------------------------|-----------|------|
-| **My Portfolio**        | Personal portfolio website showcasing my work.  | [Live](https://my-portfolio-delta-self-31.vercel.app/) | [GitHub](https://github.com/raphachegeke/My-Portfolio) |
-| **Iriaini Tea Factory** | Website for Iriaini Tea Factory.                 | [Live](https://iriaini.vercel.app/) | [GitHub](https://github.com/raphachegeke/iriaini) |
+| **My Portfolio**        | Personal portfolio website showcasing my work.  | [Live](https://raphachegekamunu.vercel.app/) | [GitHub](https://github.com/raphachegeke) |
+| **Iriaini Tea Factory** | Website for Iriaini Tea Factory.                 | [Live](https://iriaini.vercel.app/) | [GitHub](https://mraphachegekamunu.vercel.app) |
 | **To-Do List**         | A simple to-do list app.                         | [Live](https://to-do-list-eight-dusky.vercel.app/) | [GitHub](https://github.com/raphachegeke/to-do-list) |
 | **Huddle Landing Page** | A responsive landing page with alternating feature blocks. | [Live](https://huddle-landing-page-2yge.vercel.app/) | [GitHub](https://github.com/raphachegeke/huddle-landing-page) |
 
