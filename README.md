@@ -1,12 +1,12 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> My name is Rapha Chege
 
 
-## Web Developer & Multi-Disciplinary Designer  
+## Fullstack Developer & Multi-Disciplinary Designer  
 
 I'm a **Web Developer** and **Multidisciplinary Designer** passionate about creating **user-friendly** and **visually appealing** websites and apps. I specialize in:  
 
 🔹 **Frontend**: HTML, CSS, JavaScript, React  
-🔹 **Backend**: Firebase, Node.js  
+🔹 **Backend**: Firebase, Node.js, ExpressJs
 🔹 **UI/UX Design**: Adobe Suite  
 
 I love solving technical challenges, optimizing user experiences, and learning new technologies to bring ideas to life.  
@@ -79,6 +79,6 @@ I love solving technical challenges, optimizing user experiences, and learning n
 ![Jokes Card](https://readme-jokes.vercel.app/api)  
 
 ---
-<a href="https://buymeacoffee.com/raphachegeke">
+[A<a href="https://buymeacoffee.com/raphachegeke">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
 </a>
