@@ -24,7 +24,7 @@ I love solving technical challenges, optimizing user experiences, and learning n
 
 ---
 
-## 🚀 Projects  
+## 🚀 Best Projects  
 
 | Project Name            | Description                                      | Live Demo | Repo |
 |-------------------------|--------------------------------------------------|-----------|------|
