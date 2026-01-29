@@ -6,10 +6,10 @@
 I'm a **Web Developer** and **Multidisciplinary Designer** passionate about creating **user-friendly** and **visually appealing** websites and apps. I specialize in:  
 
 🔹 **Frontend**: HTML, CSS, JavaScript, React  
-🔹 **Backend**: Firebase, Node.js, ExpressJs
+🔹 **Backend**: Firebase, Node.js, ExpressJs.  
 🔹 **UI/UX Design**: Adobe Suite  
 
-I love solving technical challenges, optimizing user experiences, and learning new technologies to bring ideas to life.  
+I love solving technical challenges, optimizing user experiences, and learning new technologies to bring all ideas to life.  
 
 ---
 
