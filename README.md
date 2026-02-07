@@ -15,7 +15,7 @@ I love solving technical challenges, optimizing user experiences, and learning n
 
 ## 🌍 About Me  
 
-- 🏠 **Based in**: Nairobi, Kenya  
+- 🏠 **Located in**: Nairobi, Kenya  
 - 🖥️ **Portfolio**: [My Portfolio](https://raphachegekamunu.vercel.app/)  
 - ✉️ **Contact Me**: [raphachegekamunu@gmail.com](mailto:raphachegekamunu@gmail.com)  
 - 📖 **Currently Learning**: Software Engineering 
