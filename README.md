@@ -18,7 +18,7 @@ I love solving technical challenges, optimizing user experiences, and learning n
 - 🏠 **Located in**: Nairobi, Kenya  
 - 🖥️ **Portfolio**: [My Portfolio](https://raphachegekamunu.vercel.app/)  
 - ✉️ **Contact Me**: [raphachegekamunu@gmail.com](mailto:raphachegekamunu@gmail.com)  
-- 📖 **Currently Learning**: Software Engineering 
+- 📖 **Currently Learning**: Software Development
 - 🤝 **Looking for Collaborations**: Open to exciting projects  
 - ♟️ **Chess Master... Am I?** 🤪 [![Play Chess](https://img.shields.io/badge/Play-Chess-green?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/play/computer)  
 
